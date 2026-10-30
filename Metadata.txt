@@ -1,0 +1,13 @@
+DESCRICOES = {
+    "album":          "Álbuns musicais. Cada álbum pertence a um artista (artist_id).",
+    "artist":         "Artistas / bandas que possuem álbuns cadastrados.",
+    "customer":       "Clientes da loja, com dados de contato. support_rep_id indica o funcionário de suporte.",
+    "employee":       "Funcionários da empresa. reports_to aponta para o gerente (auto-relacionamento).",
+    "genre":          "Gêneros musicais (Rock, Jazz, Classical, etc.).",
+    "invoice":        "Notas fiscais / vendas. Cada venda pertence a um cliente (customer_id).",
+    "invoice_line":   "Itens de cada nota fiscal; liga uma venda (invoice) a uma faixa (track).",
+    "media_type":     "Tipos de mídia dos arquivos das faixas (MPEG, AAC, etc.).",
+    "playlist":       "Playlists criadas pelos usuários.",
+    "playlist_track": "Tabela de associação N:N entre playlists e faixas.",
+    "track":          "Faixas musicais; cada faixa pertence a um álbum e tem gênero, tipo de mídia, duração e preço.",
+}

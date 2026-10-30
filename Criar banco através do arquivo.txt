@@ -1,0 +1,11 @@
+- Basta ir em um database vazio (como o modelo: postgress)
+
+- Ir na query tool (aparece ao clicar no botão direto do database)
+
+- Escolher a opção de arquivo, em open file (ou então copiar e colar o conteúdo do arquivo lá, mas isso não é prático visto que se houver alterações, é melhor alterar o arquivo diretamente em vez da query local dentro da ferramenta)
+
+- Executar
+
+------------------------------------------------------------------
+
+OBS: Originalmente estava em formato de psql, porém convetri em formato qsl para executar via sql tool e simplificar a execução

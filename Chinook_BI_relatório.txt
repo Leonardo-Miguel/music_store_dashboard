@@ -1,0 +1,25 @@
+- Opções -
+
+1) Estatísticas por Artista: Permite verificar a quantidade de músicas, de vendas e álbuns por artista.
+
+2) Estatísticas por Gênero: Permite verificar a quantidade de músicas e vendas por gênero (alguns não, pois pode haver músicas de diferentes gêneros em um álbum).
+
+3) Estatísticas por Playlist: Permite verificar a quantidade de músicas por playlist.
+
+4) Estatísticas por Vendedor: Permite verificar a quantidade de vendas por vendedor.
+
+5) Estatísticas por País: Permite verificar a quantidade de vendas por país.
+
+- Constatações
+
+1) A maior parte das músicas e dos artistas são bandas de rock (ou gêneros derivados: como o metal, o alternativo e o punk), e as músicas mais vendidas também pertencem à esses gêneros.
+
+2) Depois do rock, o gênero mais presente e mais vendido é o latino.
+
+3) A quantidade de vendas por funcionário é bem distribuída, não havendo discrepância significante entre o desempenho dos 3 vendedores.
+
+4) As 3 maiores categorias/playlists de música são: Music, 90's Music e TV Show. as demais playlist possuem uma quantidade bem menor de faixas.
+
+5) O país com maior número de vendas é os EUA, seguido de Canadá, Reino Unido e Brasil. O continente com maior número de países consumidores é a Europa.
+
+6) As vendas caíram em 2025, atingindo o mesmo valor do primeiro ano avaliado. Porém as diferenças ano a ano são baixas
